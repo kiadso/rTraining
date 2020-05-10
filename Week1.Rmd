@@ -1,0 +1,142 @@
+---
+title: "HMIS SlackRs"
+author: "Genelle Denzin"
+date: "5/9/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+## Week 1
+
+Let's Go Slow! This will be a five week course. Our audience is HMIS Admins who are TOTAL NOOBS to R. It's ok if you are also a total noob to HMIS Adminning! 
+
+## Presenter(s) and Collaborators
+
+- Genelle Denzin
+- ???
+
+## Pre-Course Instructions
+
+How many installed R and R Studio on your computer already? (It is totally ok if you did not.) Did you have problems? (Will check again next time)
+
+## Logistics
+
+The next few slides will not be about coding, but when we do get to the slides where we will be running some R commands, you can either:
+
+- If you have it installed, open R Studio and follow verbal instructions (you won't need to see my screen, but if you have 2 monitors, great!)
+- Go to https://rdrr.io/snippets/ in your browser and follow verbal instructions
+- Simply watch us demo everything
+
+## What is R
+
+R is a language and environment for statistical computing and graphics. It is a GNU project, similar to the S language and environment, developed at Bell Labs.
+https://www.r-project.org/about.html
+
+## Why R
+
+R & Python are commonly used for data manipulation, and both languages are great for this, but R was built for data and statistics whereas Python has a broader purpose. Other languages are capable of manipulating data as well. R is gaining popularity in recent years due to its intentional approach to creating and maintaining a friendly and diverse community around the language.
+
+## Why R for HMIS?
+
+HMIS admins are beginning to use R more as we need more efficient and reliable ways to shape our data without restrictions. We worry about losing work in legacy systems. Most importantly we want ways of sharing our ideas and code with each other. Each CoC does not need to build (or pay for) the same system to do the same things that are needed at the national level. (Cue to stop talking about open source bc then you won't stop and people will Leave Meeting.) :)
+
+## What is R Studio
+
+- IDE
+- Ecosystem for your code
+
+## Ways to Learn R Besides this Group
+
+- Swirl()
+- R4DS
+- R Ladies
+- Coursera
+- Slack #r-learners channel
+- Twitter #rstats
+
+## How Does R Work?
+
+If you installed R Studio, go to your Console.
+If you did not, go here: https://rdrr.io/snippets/ 
+
+## Add two numbers
+
+```{r}
+15 + 7
+```
+
+But wait, I already have a calculator, can I go now?
+
+## Prevent Repetition
+
+Assigning a value to a variable
+
+The arrow means you are adding meaning to that variable name. You never have to type 15 + 7 again!
+
+```{r}
+x <- 15 + 7
+
+x
+```
+
+## Create variable based on another variable
+
+```{r}
+(y <- x - 4)
+```
+
+Preview to next slide: y represents a vector of length 1. This particular one is an atomic vector of type double. The other types are: 
+
+- character
+- integer
+- logical
+- complex
+- raw
+
+## Vectors
+
+A multiple elements vector can be made in a number of different ways. The most common is like so:
+
+```{r}
+a <- c(4, 5, 8)
+
+a
+```
+
+Another way:
+
+```{r}
+(b <- 9:13)
+```
+
+## Include variable in a vector
+
+You'll remember we already created a variable called "a". Let's see what's in it:
+```{r}
+a
+```
+What happens if we write something else to a?
+
+```{r}
+a <- c(y, x, 5, 8)
+
+a
+```
+(It overwrites it!)
+
+## Vector Manipulation
+
+```{r}
+x * a
+
+```
+
+## Homework (OPTIONAL)
+
+Put all the Project Type Code values (https://hudhdx.info/VendorResources.aspx download the one named FY2020 HMIS CSV Format Specifications.pdf) in a vector and save that to a variable named PTC (or however you want to abbreviate that). To execute your code, you can either go here: https://rdrr.io/snippets/ or run it on your own computer. 
+
+
