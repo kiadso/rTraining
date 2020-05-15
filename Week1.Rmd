@@ -88,7 +88,6 @@ x
 ```{r}
 (y <- x - 4)
 ```
-
 Preview to next slide: y represents a vector of length 1. This particular one is an atomic vector of type double. The other types are: 
 
 - character
@@ -100,13 +99,11 @@ Preview to next slide: y represents a vector of length 1. This particular one is
 ## Vectors
 
 A multiple elements vector can be made in a number of different ways. The most common is like so:
-
 ```{r}
 a <- c(4, 5, 8)
 
 a
 ```
-
 Another way:
 
 ```{r}
@@ -121,6 +118,7 @@ a
 ```
 What happens if we write something else to a?
 
+Also notice the vector contains variables. 
 ```{r}
 a <- c(y, x, 5, 8)
 
@@ -128,11 +126,12 @@ a
 ```
 (It overwrites it!)
 
+Calling a returns the value of the variables.
+
 ## Vector Manipulation
 
 ```{r}
 x * a
-
 ```
 
 ## Homework (OPTIONAL)
