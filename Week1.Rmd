@@ -58,6 +58,13 @@ HMIS admins are beginning to use R more as we need more efficient and reliable w
 - Slack #r-learners channel
 - Twitter #rstats
 
+## My Focus Across the Five Weeks
+
+- Forest view
+- Syntax intro (but not super deep).
+- Workflow as a main focus, as it's something I can give you as a fellow HMIS admin that is not as easy to come by in the multitudes of free (and cheap) R courses and excellent documentation that already exists.
+- Can and will adjust over the course of the 5 weeks as needed/requested.
+
 ## How Does R Work?
 
 If you installed R Studio, go to your Console.
