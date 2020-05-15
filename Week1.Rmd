@@ -63,76 +63,9 @@ HMIS admins are beginning to use R more as we need more efficient and reliable w
 If you installed R Studio, go to your Console.
 If you did not, go here: https://rdrr.io/snippets/ 
 
-## Add two numbers
+## Demo
 
-```{r}
-15 + 7
-```
-
-But wait, I already have a calculator, can I go now?
-
-## Prevent Repetition
-
-Assigning a value to a variable
-
-The arrow means you are adding meaning to that variable name. You never have to type 15 + 7 again!
-
-```{r}
-x <- 15 + 7
-
-x
-```
-
-## Create variable based on another variable
-
-```{r}
-(y <- x - 4)
-```
-Preview to next slide: y represents a vector of length 1. This particular one is an atomic vector of type double. The other types are: 
-
-- character
-- integer
-- logical
-- complex
-- raw
-
-## Vectors
-
-A multiple elements vector can be made in a number of different ways. The most common is like so:
-```{r}
-a <- c(4, 5, 8)
-
-a
-```
-Another way:
-
-```{r}
-(b <- 9:13)
-```
-
-## Include variable in a vector
-
-You'll remember we already created a variable called "a". Let's see what's in it:
-```{r}
-a
-```
-What happens if we write something else to a?
-
-Also notice the vector contains variables. 
-```{r}
-a <- c(y, x, 5, 8)
-
-a
-```
-(It overwrites it!)
-
-Calling a returns the value of the variables.
-
-## Vector Manipulation
-
-```{r}
-x * a
-```
+(Demo tape graphic)
 
 ## Homework (OPTIONAL)
 
