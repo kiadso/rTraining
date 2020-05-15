@@ -79,15 +79,15 @@ x
 # A multiple-elements vector can be made in a number of different ways. The 
 # most common is like so:
 
-c(4, 5, 8)  
+c(1, 2, 3, 4, 8, 13)  
 
-a <- c(4, 5, 8)
+literally_homeless <- c(1, 2, 3, 4, 8, 13)
 
-a
+literally_homeless
 
 # Another way:
   
-(b <- 9:13)
+(project_types <- 1:14)
 
 
 
@@ -102,16 +102,16 @@ a
 
 ## Include variable in a vector
 
-# You'll remember we already created a variable called "a". Let's see what's 
-# in it:
+# You'll remember we already created a variable called "literally_homeless". 
+# Let's see what's in it:
 
-a
+literally_homeless
 
-# What happens if we write something else to a?
+# What happens if we write something else to "literally_homeless"?
 
-a <- c(y, x, 5, 8)
+literally_homeless <- c(y, x, 5, 8)
 
-a
+literally_homeless
 
 # (It overwrites it!)
 
@@ -130,7 +130,7 @@ a
 
 ## Vector Manipulation
 
-x * a
+x * literally_homeless
 
 
 
