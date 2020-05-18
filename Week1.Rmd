@@ -42,11 +42,11 @@ R & Python are commonly used for data manipulation, and both languages are great
 
 ## Why R for HMIS?
 
-HMIS admins are beginning to use R more as we need more efficient and reliable ways to shape our data without restrictions. We worry about losing work in legacy systems. Most importantly we want ways of sharing our ideas and code with each other. Each CoC does not need to build (or pay for) the same system to do the same things that are needed at the national level. (Cue to stop talking about open source bc then you won't stop and people will Leave Meeting.) :)
+HMIS admins are beginning to use R more as we need more efficient and reliable ways to shape our data without restrictions. We worry about losing work in legacy systems. Most importantly we want ways of sharing our ideas and code with each other. Each CoC does not need to build (or pay for) the same system to do the same things that are needed at the national level. 
 
 ## What is R Studio
 
-- IDE
+- IDE (Integrated Development Environment)
 - Ecosystem for your code
 
 ## Ways to Learn R Besides this Group

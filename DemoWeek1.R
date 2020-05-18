@@ -49,9 +49,6 @@ x
 
 
 
-
-
-
 ## Create variable based on another variable
 
 (y <- x - 4)
@@ -64,6 +61,11 @@ x
   # - logical
   # - complex
   # - raw
+
+
+
+
+
 
 
 
@@ -91,6 +93,9 @@ literally_homeless
 
 
 
+## Other kinds of vectors
+
+funders <- c("HUD", "VA", "HHS")
 
 
 
@@ -100,7 +105,15 @@ literally_homeless
 
 
 
-## Include variable in a vector
+
+
+
+
+
+
+
+
+## Include a variable in a vector
 
 # You'll remember we already created a variable called "literally_homeless". 
 # Let's see what's in it:
@@ -113,7 +126,55 @@ literally_homeless <- c(y, x, 5, 8)
 
 literally_homeless
 
-# (It overwrites it!)
+# first thing to notice: the vector returns the variable's values
+
+# second thing to notice: literally_homeless has been overwritten!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## The Order in which you run code
+
+# remember y == 18 because we ran the code (y <- x - 4) when x == 22
+# let's say we want to overwrite x with a different value
+
+x <- 11
+
+# what is y going to be?
+
+y
+
+# how can we make y be x - 4 again?
+
+y <- x - 4
+
+y
+
+# it's best to name your variables in a descriptive way and not reuse them in 
+# the same analysis!
+
+
+
+
+
+
+
 
 
 
@@ -142,3 +203,17 @@ x * literally_homeless
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# Exploring data objects
+
+summary(literally_homeless)
