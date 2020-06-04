@@ -53,8 +53,8 @@ x
 
 (y <- x - 4)
 
-# x and y both represent a vectors of length 1. This particular one is an 
-# atomic vector of type double. The other types are: 
+# x and y both represent a vectors of length 1. These are each atomic 
+# vectors of type double. The other types are: 
   
   # - character
   # - integer
@@ -78,7 +78,7 @@ x
 
 ## Vectors
 
-# A multiple-elements vector can be made in a number of different ways. The 
+# A vector can be made in a number of different ways. The 
 # most common is like so:
 
 c(1, 2, 3, 4, 8, 13)  
@@ -161,27 +161,13 @@ x <- 11
 y
 
 # how can we make y be x - 4 again?
-
+# (you would write a function to do this, but that's for another time)
 y <- x - 4
 
 y
 
 # it's best to name your variables in a descriptive way and not reuse them in 
 # the same analysis!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,17 +189,7 @@ x * literally_homeless
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Exploring data objects
 
 summary(literally_homeless)
+
