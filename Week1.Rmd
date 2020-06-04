@@ -2,7 +2,10 @@
 title: "HMIS SlackRs"
 author: "Genelle Denzin"
 date: "5/9/2020"
-output: ioslides_presentation
+output: 
+  ioslides_presentation:
+    logo: COHHIOlogo_5.16.jpg
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -10,30 +13,26 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
-## Week 1
+# Week 1
 
-Let's Go Slow! This will be a five week course. Our audience is HMIS Admins who are TOTAL NOOBS to R. It's ok if you are also a total noob to HMIS Adminning! 
+Presenter: Genelle Denzin 
 
-## Presenter(s) and Collaborators
-
-- Genelle Denzin
-- ???
+Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn
 
 ## Pre-Course Instructions
 
-How many installed R and R Studio on your computer already? (It is totally ok if you did not.) Did you have problems? (Will check again next time)
+Did anyone have problems installing R or R Studio?
 
 ## Logistics
 
 The next few slides will not be about coding, but when we do get to the slides where we will be running some R commands, you can either:
 
 - If you have it installed, open R Studio and follow verbal instructions (you won't need to see my screen, but if you have 2 monitors, great!)
-- Go to https://rdrr.io/snippets/ in your browser and follow verbal instructions
-- Simply watch us demo everything
+- Follow along visually
 
 ## What is R
 
-R is a language and environment for statistical computing and graphics. It is a GNU project, similar to the S language and environment, developed at Bell Labs.
+R is a language and environment for statistical computing and graphics. It is a GNU project, similar to the S language and environment, developed at Bell Labs in the 1980s.
 https://www.r-project.org/about.html
 
 ## Why R
@@ -42,21 +41,16 @@ R & Python are commonly used for data manipulation, and both languages are great
 
 ## Why R for HMIS?
 
-HMIS admins are beginning to use R more as we need more efficient and reliable ways to shape our data without restrictions. We worry about losing work in legacy systems. Most importantly we want ways of sharing our ideas and code with each other. Each CoC does not need to build (or pay for) the same system to do the same things that are needed at the national level. 
+- We need more efficient and reliable ways to shape our data without restrictions. 
+- We worry about losing work in legacy systems. 
+- Reproducibility
+- We want ways of sharing our ideas and code with each other. 
+- Free(ish) solution. Each CoC does not need to independently build (or pay for) the same reports and systems to do the same things that are needed at the national level. 
 
 ## What is R Studio
 
 - IDE (Integrated Development Environment)
 - Ecosystem for your code
-
-## Ways to Learn R Besides this Group
-
-- Swirl()
-- R4DS
-- R Ladies
-- Coursera
-- Slack #r-learners channel
-- Twitter #rstats
 
 ## My Focus Across the Five Weeks
 
@@ -65,17 +59,26 @@ HMIS admins are beginning to use R more as we need more efficient and reliable w
 - Workflow as a main focus, as it's something I can give you as a fellow HMIS admin that is not as easy to come by in the multitudes of free (and cheap) R courses and excellent documentation that already exists.
 - Can and will adjust over the course of the 5 weeks as needed/requested.
 
+## Ways to Learn R Besides this Group
+
+- R4DS
+- R Ladies
+- Coursera
+- Slack #r-learners channel on HMIS Help
+- Twitter #rstats
+
 ## How Does R Work?
 
 If you installed R Studio, go to your Console.
-If you did not, go here: https://rdrr.io/snippets/ 
 
-## Demo
-
-(Demo tape graphic)
+# Demo
 
 ## Homework (OPTIONAL)
 
-Put all the Project Type Code values (https://hudhdx.info/VendorResources.aspx download the one named FY2020 HMIS CSV Format Specifications.pdf) in a vector and save that to a variable named PTC (or however you want to abbreviate that). To execute your code, you can either go here: https://rdrr.io/snippets/ or run it on your own computer. 
+Put all the Project Type Code values (https://hudhdx.info/VendorResources.aspx download the one named FY2020 HMIS CSV Format Specifications.pdf) in a vector and save that to a variable named PTC (or however you want to abbreviate that). Execute your code in the console. 
 
+##
 
+Next Session:
+
+R Studio
