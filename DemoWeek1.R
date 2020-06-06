@@ -10,9 +10,21 @@
 15 + 7
 
 
-
+# send incomplete command to console
 x <- "incomplete
 
+# Resources for R Learners-
+# 
+# R for Data Science r4ds.had.co.nz/
+# book written by Hadley Wickham and Garret Grolemund about getting started in R and how the Tidyverse packages can help you
+# R-Ladies https://rladies.org/ 
+# organization within the R community that aims to empower women to lead in the tech community. Holds meetups all around the world open to all and if there’s not one near you, you can attend virtual one, though all of them are virtual right now anyway, so.
+# Coursera https://www.coursera.org/courses?query=r
+# paid courses
+# Twitter (#rstats) https://twitter.com/hashtag/rstats?src=hashtag_click
+# R users from around the world sharing information, new packages, questions, etc.
+# LearnR package https://rstudio.github.io/learnr/
+# create an interactive tutorial using R
 
 
 
