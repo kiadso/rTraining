@@ -15,7 +15,8 @@ library(knitr)
 
 # Week 1
 
-Presenter: Genelle Denzin 
+Presenter: Genelle Denzin she/her
+(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
 
 Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn
 
@@ -84,6 +85,12 @@ https://www.r-project.org/about.html
 ## Homework (OPTIONAL)
 
 Put all the Project Type Code values (https://hudhdx.info/VendorResources.aspx download the one named FY2020 HMIS CSV Format Specifications.pdf) in a vector and save that to a variable named PTC (or however you want to abbreviate that). Execute your code in the console. 
+
+## IF YOU ARE SO INCLINED
+
+- Donations to COHHIO's Pandemic Fund can be made here: https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matters protesters can be made here: https://www.paypal.me/columbusfreedomfund
 
 ##
 
