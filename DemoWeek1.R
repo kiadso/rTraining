@@ -1,3 +1,9 @@
+# notes:
+# change RStudio theme so it's easier for people to read
+# once these exercises are settled, print them out so you 
+# can go by your notes in the console and verbally walk students
+# through it
+
 
 ## Add two numbers
 
@@ -5,7 +11,7 @@
 
 
 
-
+x <- "incomplete
 
 
 
@@ -53,14 +59,7 @@ x
 
 (y <- x - 4)
 
-# x and y both represent a vectors of length 1. These are each atomic 
-# vectors of type double. The other types are: 
-  
-  # - character
-  # - integer
-  # - logical
-  # - complex
-  # - raw
+# x and y both represent a vectors of length 1. 
 
 
 

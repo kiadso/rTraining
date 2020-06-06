@@ -84,7 +84,7 @@ https://www.r-project.org/about.html
 
 ## Homework (OPTIONAL)
 
-Put all the Project Type Code values (https://hudhdx.info/VendorResources.aspx download the one named FY2020 HMIS CSV Format Specifications.pdf) in a vector and save that to a variable named PTC (or however you want to abbreviate that). Execute your code in the console. 
+In RStudio in the upper right quadrant, click "Tutorial" tab. Install learnR package. Do one tutorial there.
 
 ## IF YOU ARE SO INCLINED
 
