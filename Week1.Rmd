@@ -15,7 +15,7 @@ library(knitr)
 
 # Week 1
 
-Presenter: Genelle Denzin she/her
+Presenter: Genelle Denzin (she/her)
 (HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
 
 Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn
@@ -66,7 +66,6 @@ https://www.r-project.org/about.html
 
 ## My Focus Across the Five Weeks
 
-- Forest view
 - Syntax intro (but not super deep).
 - Workflow as a main focus, as it's something I can give you as a fellow HMIS admin that is not as easy to come by in the multitudes of free (and cheap) R courses and excellent documentation that already exists.
 - Can and will adjust over the course of the 5 weeks as needed/requested.
@@ -79,6 +78,7 @@ https://www.r-project.org/about.html
 - Slack #r-learners channel on HMIS Help
 - Twitter #rstats
 - Tutorial tab in RStudio (learnR package)
+- (many others)
 
 # Demo
 
@@ -90,10 +90,8 @@ In RStudio in the upper right quadrant, click "Tutorial" tab. Install learnR pac
 
 - Donations to COHHIO's Pandemic Fund can be made here: https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
 
-- Donations to the Columbus Freedom Fund which bails out local Black Lives Matters protesters can be made here: https://www.paypal.me/columbusfreedomfund
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
 
-##
+# RStudio
 
 Next Session:
-
-RStudio
