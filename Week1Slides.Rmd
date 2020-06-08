@@ -1,7 +1,7 @@
 ---
 title: "R for HMIS Admins"
 author: "Genelle Denzin"
-date: "5/9/2020"
+date: "6/9/2020"
 output: 
   ioslides_presentation:
     logo: COHHIOlogo_5.16.jpg
@@ -85,6 +85,14 @@ https://www.r-project.org/about.html
 ## Homework (OPTIONAL)
 
 In RStudio in the upper right quadrant, click "Tutorial" tab. Install learnR package. Do one tutorial there.
+
+## Final Instructions from Demo
+
+You can close out RStudio now, but please be aware that all that we did in the console will be lost (and that's ok).
+
+We'll talk more next time about how to save code, etc.
+
+Materials posted here: 
 
 ## IF YOU ARE SO INCLINED
 
