@@ -18,7 +18,7 @@ library(knitr)
 Presenter: Genelle Denzin (she/her)
 (HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
 
-Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn
+Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn, Fred Hintz
 
 ## Pre-Course Instructions
 
