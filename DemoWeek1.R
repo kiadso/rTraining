@@ -15,167 +15,119 @@
 # The assignment arrow means you are adding meaning to that variable 
 # name. In RStudio, you can type it with Alt dash.
   
-total_days <- 15 + 7
+first_var <- 15 + 7
 
-total_days # doesn't return "answer" because no question was asked
+first_var # doesn't return "answer" because no question was asked
 
 # Surround command in () if you want it to return results
 # Create variable based on another variable
 
-(days_minus_4 <- total_days - 4)
+(second_var <- first_var - 4)
 
-## Vector: the most basic R data object. Atomic vectors are all of the 
+## Vector: the most basic R data object. You can think of vectors like
+# a any number of contiguous cells in Excel. Atomic vectors contain the 
 # same data type; lists can have different data types. (A list is a type
-# of vector.) The data types are: character, double, interger, logical, 
+# of vector.) The data types are: character, double, integer, logical, 
 # complex, and raw.
 
 # We've already created two vectors! Let's see what data type they are.
 
-typeof(total_days)
+typeof(first_var)
 
-# typeof() is a function that is native to base R.
+# typeof() is a function that is native to base R. To learn more about
+# a function, you can use the ? and then the function name.
+
+?typeof
 
 # A vector can be made in a number of different ways. The 
 # most common is like so:
 
-c(1, 2, 3, 4, 8, 13)  
+lh <- c(1, 2, 3, 4, 8, 13)
 
-literally_homeless <- c(1, 2, 3, 4, 8, 13)
-
-literally_homeless
+lh
 
 # Another way:
   
-(project_types <- 1:14)
+project_types <- 1:14
 
+# how many members in the vector?
 
+length(lh)
+
+length(first_var)
 
 ## Other kinds of vectors
 
 funders <- c("HUD", "VA", "HHS")
 
+# lists
+signs <- list(25, 55, "stop", "yield")
 
+typeof(signs)
 
+# what if we used c() instead? (arrow up twice to get previous code)
 
+signs <- c(25, 55, "stop", "yield")
 
+## What can we do with vectors??
 
+# math
+first_var * lh
 
+# check for truth
+first_var == 12
 
+first_var != 12
 
+# get to know it better
+summary(project_types)
 
+# call pieces and parts of them
+lh[2]
 
+lh[5:6]
 
+# find differences
+not_lh <- setdiff(project_types, lh)
 
+## Order of your code (and name things descriptively!)
 
-
-
-
-## Include a variable in a vector
-
-# You'll remember we already created a variable called "literally_homeless". 
+# You'll remember we already created a variable called "first_var". 
 # Let's see what's in it:
 
-literally_homeless
+first_var
 
-# What happens if we write something else to "literally_homeless"?
+# What happens if we write something else to "first_var"?
 
-literally_homeless <- c(days_minus_4, total_days, 5, 8)
+first_var <- 10
 
-literally_homeless
+first_var
 
-# first thing to notice: the vector returns the variable's values
+# first thing to notice: first_var has been overwritten
+# second thing to notice: second_var HAS NOT changed, even though we
+# built it like first_var - 4.
+# R is very much in the here and now in this way. In order to have 
+# things adjust automatically, we can write our own function or use
+# parameters or Shiny way later in our learning.
 
-# second thing to notice: literally_homeless has been overwritten!
+# -- if there's enough time --
 
+# A data frame is a 2 dimensional data structure in R
+# Columns = variables, rows = observations
+# R has some built-in dataframes, some famous ones are mtcars and iris.
+# We're going to use Orange about the growth of Orange trees.
 
+class(Orange)
 
+?Orange
 
+Orange
 
+ncol(Orange)
 
+nrow(Orange)
 
+names(Orange)
 
-
-
-
-
-
-
-
-
-
-
-
-
-## The Order in which you run code
-
-# remember y == 18 because we ran the code (y <- x - 4) when x == 22
-# let's say we want to overwrite x with a different value
-
-total_days <- 11
-
-# what is y going to be?
-
-days_minus_4
-
-# how can we make y be x - 4 again?
-# (you would write a function to do this, but that's for another time)
-days_minus_4 <- total_days - 4
-
-days_minus_4
-
-# it's best to name your variables in a descriptive way and not reuse them in 
-# the same analysis!
-
-
-
-
-
-
-
-## Vector Manipulation
-
-total_days * literally_homeless
-
-
-
-
-
-
-
-
-# Check for truth
-
-total_days == 1
-
-total_days != 1
-
-total_days > 1
-
-total_days >= 1
-
-total_days <= 1
-
-
-# Exploring data objects
-
-summary(literally_homeless)
-
-# send incomplete command to console (remove second paren)
-total_days <- "incomplete"
-
-# Resources for R Learners-
-# 
-# R for Data Science r4ds.had.co.nz/
-# book written by Hadley Wickham and Garret Grolemund about getting started in R and how the Tidyverse packages can help you
-# R-Ladies https://rladies.org/ 
-# organization within the R community that aims to empower women to lead in the tech community. Holds meetups all around the world open to all and if there’s not one near you, you can attend virtual one, though all of them are virtual right now anyway, so.
-# Coursera https://www.coursera.org/courses?query=r
-# paid courses
-# Twitter (#rstats) https://twitter.com/hashtag/rstats?src=hashtag_click
-# R users from around the world sharing information, new packages, questions, etc.
-# LearnR package https://rstudio.github.io/learnr/
-# create an interactive tutorial using R
-
-
-
+length(Orange)
 
