@@ -108,7 +108,11 @@ first_var
 # built it like first_var - 4.
 # R is very much in the here and now in this way. In order to have 
 # things adjust automatically, we can write our own function or use
-# parameters or Shiny way later in our learning.
+# parameters or Shiny way later in our learning. Short of that, if we
+# want second_var to change, we will need to change it by running that
+# command again.
+
+second_var <- first_var - 4
 
 # -- if there's enough time --
 
