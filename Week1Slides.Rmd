@@ -26,10 +26,15 @@ Did anyone have problems installing R or RStudio?
 
 ## Logistics
 
-When we get past these intro slides and start running some R commands, you can either:
+- It is highly recommended that you have 2 monitors or an extra laptop on hand. If you do have a way of setting that up between now and the demo, go ahead. If not, it's ok to just do your best or just follow along visually.
 
-- If you have it installed, open RStudio and follow verbal instructions (you won't need to see my screen, but if you have 2 monitors, great!)
-- Follow along visually
+- Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you.
+
+## My Focus Across the Five Weeks
+
+- Syntax intro (but not super deep).
+- Workflow as a main focus, as it's something I can give you as a fellow HMIS admin that is not as easy to come by in the multitudes of free (and cheap) R courses and excellent documentation that already exists.
+- Can and will adjust over the course of the 5 weeks as needed/requested.
 
 ## What is R
 
@@ -64,11 +69,6 @@ https://www.r-project.org/about.html
 
 ![](images/room.jpg)
 
-## My Focus Across the Five Weeks
-
-- Syntax intro (but not super deep).
-- Workflow as a main focus, as it's something I can give you as a fellow HMIS admin that is not as easy to come by in the multitudes of free (and cheap) R courses and excellent documentation that already exists.
-- Can and will adjust over the course of the 5 weeks as needed/requested.
 
 ## Ways to Learn R 
 
