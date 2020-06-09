@@ -25,7 +25,7 @@ first_var # doesn't return "answer" because no question was asked
 (second_var <- first_var - 4)
 
 ## Vector: the most basic R data object. You can think of vectors like
-# a any number of contiguous cells in Excel. Atomic vectors contain the 
+# any number of contiguous cells in Excel. Atomic vectors contain the 
 # same data type; lists can have different data types. (A list is a type
 # of vector.) The data types are: character, double, integer, logical, 
 # complex, and raw.
@@ -119,19 +119,21 @@ second_var <- first_var - 4
 # A data frame is a 2 dimensional data structure in R
 # Columns = variables, rows = observations
 # R has some built-in dataframes, some famous ones are mtcars and iris.
-# We're going to use Orange about the growth of Orange trees.
+# We're going to use mtcars.
 
-class(Orange)
+class(mtcars)
 
-?Orange
+?mtcars
 
-Orange
+mtcars
 
-ncol(Orange)
+ncol(mtcars)
 
-nrow(Orange)
+nrow(mtcars)
 
-names(Orange)
+names(mtcars)
 
-length(Orange)
+length(mtcars)
+
+View(mtcars)
 
