@@ -1,0 +1,52 @@
+---
+title: "R for HMIS Admins"
+author: "Genelle Denzin"
+date: "6/16/2020"
+output: 
+  ioslides_presentation:
+    logo: COHHIOlogo_5.16.jpg
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Week 2
+
+Presenter: Genelle Denzin (she/her)
+(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+
+Collaborators: Ezgi Karaesman, Carolyn Hoffman, Ashley Wynn, Fred Hintz
+
+## Homework
+
+Feedback on the homework? Which tutorial did people take?
+
+## Logistics
+
+- It is highly recommended that you have 2 monitors or an extra laptop on hand. If you do have a way of setting that up between now and the demo, go ahead. If not, it's ok to just do your best or just follow along visually.
+
+- Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you.
+
+## What is RStudio
+
+- IDE (Integrated Development Environment)
+- Ecosystem for your code
+
+![](images/room.jpg)
+
+# Demo
+
+## Homework 
+
+Sign up for a free GitHub account.
+
+## IF YOU ARE SO INCLINED
+
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
+
+# GitHub
+
+Next Session:
