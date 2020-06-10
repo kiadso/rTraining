@@ -39,7 +39,7 @@ Feedback on the homework? Which tutorial did people take?
 
 ## Things RStudio has that R doesn't
 
-History
+History (your commands from last session will be there)
 Environment
 Projects
 Connections to many kinds of databases
@@ -53,6 +53,11 @@ Accessibility
 Autocomplete
 Hovers for function syntax
 More options for plots
+
+## Settings to Change Now
+
+Tools > Global Settings > General > Workspace > uncheck "Restore .RData into workspace at startup"
+
 
 ## Project-based workflows
 
@@ -69,6 +74,10 @@ Source script
 Saving the script (where?)
 
 # Demo
+
+Restart R
+Clear Environment
+
 
 ## Homework 
 
