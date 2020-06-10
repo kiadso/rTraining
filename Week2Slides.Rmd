@@ -37,11 +37,43 @@ Feedback on the homework? Which tutorial did people take?
 
 ![](images/room.jpg)
 
+## Things RStudio has that R doesn't
+
+History
+Environment
+Projects
+Connections to many kinds of databases
+Git interface
+Plotting pane
+Help pane
+Command prompt (shell version of R)
+Customize look and feel
+View() (searchable)
+Accessibility
+Autocomplete
+Hovers for function syntax
+More options for plots
+
+## Project-based workflows
+
+Highly recommended
+Keep like work together
+
+## Scripts
+
+How to create
+Commenting 
+How to write things 
+How to run things 
+Source script
+Saving the script (where?)
+
 # Demo
 
 ## Homework 
 
-Sign up for a free GitHub account.
+- Install git on the same computer that you have R & RStudio on.
+- Sign up for a free GitHub account.
 
 ## IF YOU ARE SO INCLINED
 
