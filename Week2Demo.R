@@ -3,9 +3,9 @@
 # RStudio gives you the space to organize your code.
 
 # When we left off last week, we had only written some R commands in the 
-# console and then closed RStudio, thereby losing the work we did. And it 
-# was ok because we were simply having a conversation with R, learning to
-# feel ok in the console. Also it was ok because the code we used during 
+# console and then closed RStudio, thereby (kind of) losing the work we did. 
+# And it was ok because we were simply having a conversation with R, learning 
+# to feel ok in the console. Also it was ok because the code we used during 
 # that session is available on GitHub, which is the topic of next week's
 # lesson.
 
@@ -32,3 +32,6 @@ length(mtcars)
 
 View(mtcars)
 
+plot(mtcars$mpg, mtcars$carb)
+
+hist(mtcars$mpg)

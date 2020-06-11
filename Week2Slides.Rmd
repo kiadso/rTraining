@@ -43,27 +43,9 @@ Feedback on the homework? Was everyone able to get through the Data Basics tutor
 
 ![](images/room.jpg)
 
-## Things RStudio has that R doesn't
-
-- History (your commands from last session will be there)
-- Environment
-- Projects
-- Connections to many kinds of databases
-- Git interface
-- Plotting pane
-- Help pane
-- Command prompt (shell version of R)
-- Customize look and feel
-- View() (searchable)
-- Accessibility
-- Autocomplete
-- Hovers for function syntax
-- More options for plots
-
 ## Settings to Change Now
 
 Tools > Global Settings > General > Workspace > uncheck "Restore .RData into workspace at startup"
-
 
 ## Project-based workflows
 
