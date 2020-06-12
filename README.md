@@ -39,6 +39,8 @@ Instructions:
 
 ### If you are so inclined:
 
-- Donations to COHHIO's Pandemic Fund can be made here: https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
 
-- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
+- You can donate to [COHHIO's Pandemic Fund](https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund) which helps organizations in Ohio keep our homeless neighbors safe from COVID-19.
+
+- Or you can donate to [The Columbus Freedom Fund](https://www.paypal.me/columbusfreedomfund) which bails out local Black Lives Matter protesters.
