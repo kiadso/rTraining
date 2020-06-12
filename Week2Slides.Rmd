@@ -17,8 +17,7 @@ library(knitr)
 
 Presenter: Genelle Denzin (she/her)
 (HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
-
-Collaborators: Carolyn Hoffman, Ashley Wynn, Fred Hintz
+Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
 
 ## Homework
 
@@ -37,20 +36,30 @@ Feedback on the homework? Was everyone able to get through the Data Basics tutor
 ### https://github.com/kiadso/rTraining
 
 ## What is RStudio
-
 - IDE (Integrated Development Environment)
-- Ecosystem for your code
+- Other examples of IDEs: Vim, Emacs, Visual Studio
 
 ![](images/room.jpg)
 
 ## Settings to Change Now
 
-Tools > Global Settings > General > Workspace > uncheck "Restore .RData into workspace at startup"
+Tools > Global Settings > General > Workspace > uncheck "Restore .RData into workspace at startup" and set "Save Workspace" to "Never"
+
+Why: You should save code that works every time. Write every script assuming it will be run in a fresh R process. 
+
+A great resource about workflows is https://rstats.wtf (What They Forgot... to teach you)
+
+## History
+
+The commands you submitted last week **are** actually available to you if you do want those.
 
 ## Project-based workflows
 
-Highly recommended
-Keep like work together
+- Highly recommended as a way to keep your work more reproducible
+- Useful as a way of always having a relevant working directory
+- Can have multiple projects open simultaneously
+- Keep like work together
+- Use the here package
 
 ## Scripts
 
@@ -61,16 +70,21 @@ How to run things
 Source script
 Saving the script (where?)
 
-# Demo
+## Sessions, workspaces
 
-Restart R
-Clear Environment
+- ls()
+- Restart R
+- Clear Environment
 
+## Installing Packages
+
+- run install.packages("dplyr")
 
 ## Homework 
 
 - Install git on the same computer that you have R & RStudio on.
 - Sign up for a free GitHub account.
+- Work with your vendor to try to get a HUD CSV Export from your HMIS. (You'll want this in Week 4.) 
 
 ## IF YOU ARE SO INCLINED
 

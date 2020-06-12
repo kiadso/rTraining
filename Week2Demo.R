@@ -1,6 +1,7 @@
-# You can run R code in RGUI, which comes with your R installation.
+# You can run R code in RGUI, which comes with your R installation. (Demo quickly)
 
-# RStudio gives you the space to organize your code.
+# RStudio gives you the space to organize your code, connect to data sources, 
+# iterate, share, and back up your code. Makes coding easier.
 
 # When we left off last week, we had only written some R commands in the 
 # console and then closed RStudio, thereby (kind of) losing the work we did. 
@@ -10,6 +11,9 @@
 # lesson.
 
 # But what if we had wanted to save that code so we could use it later?
+
+# Open RStudio, create script, and type the following into the console, (while 
+# teaching as you go).
 
 # A data frame is a 2 dimensional data structure in R
 # Columns = variables, rows = observations
@@ -22,16 +26,19 @@ class(mtcars)
 
 mtcars
 
-ncol(mtcars)
+how_wide_mtcars <- ncol(mtcars)
 
-nrow(mtcars)
-
-names(mtcars)
-
+how_long_mtcars <- nrow(mtcars)
 length(mtcars)
+
+attributes_mtcars <- names(mtcars)
 
 View(mtcars)
 
 plot(mtcars$mpg, mtcars$carb)
 
 hist(mtcars$mpg)
+
+# save script
+
+
