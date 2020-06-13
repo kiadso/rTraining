@@ -20,11 +20,13 @@
 # R has some built-in dataframes, some famous ones are mtcars and iris.
 # We're going to use mtcars.
 
-class(mtcars)
+# see this is how you add commenting
+
+mtcars # or you can do it like this
 
 ?mtcars
 
-mtcars
+class(mtcars)
 
 how_wide_mtcars <- ncol(mtcars)
 
@@ -33,6 +35,8 @@ length(mtcars)
 
 attributes_mtcars <- names(mtcars)
 
+# section with much cooler things in it -----------------------------------
+
 View(mtcars)
 
 plot(mtcars$mpg, mtcars$carb)
@@ -40,5 +44,6 @@ plot(mtcars$mpg, mtcars$carb)
 hist(mtcars$mpg)
 
 # save script
+
 
 
