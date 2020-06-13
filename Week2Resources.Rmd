@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [R for Data Science](r4ds.had.co.nz/) - specifically Chapter 4
 
-[What They Forgot to Teach You](https://rstats.wtf) - Great workflow-related information about best practices
+[What They Forgot to Teach You](https://rstats.wtf) - great workflow-related information about best practices
 
 ### R communities
 
