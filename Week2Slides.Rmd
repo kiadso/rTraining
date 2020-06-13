@@ -82,11 +82,13 @@ Saving the script (where?)
 
 ## Homework 
 
-- Install git on the same computer that you have R & RStudio on.
-- Sign up for a free GitHub account.
-- Work with your vendor to try to get a HUD CSV Export from your HMIS. (You'll want this in Week 4.) 
+- [Install git](https://git-scm.com/download/win) on the same computer that you have R & RStudio on.
+- Sign up for a free [GitHub](https://github.com/) account. (There are other git platforms like GitLab and others- it is ok to choose whichever you want but I am using GitHub and will know more about it.)
+- Work with your vendor to try to get access to a HUD CSV Export from your HMIS. (You'll want this in Week 4.) 
 
 ## IF YOU ARE SO INCLINED
+
+- Donations to COHHIO's Pandemic Fund  which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
 
 - Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
 

@@ -1,3 +1,7 @@
+# Settings to Change First Thing
+
+# 
+
 # You can run R code in RGUI, which comes with your R installation. (Demo quickly)
 
 # RStudio gives you the space to organize your code, connect to data sources, 
@@ -10,7 +14,7 @@
 # that session is available on GitHub, which is the topic of next week's
 # lesson.
 
-# But what if we had wanted to save that code so we could use it later?
+# But what if we had wanted to save that code so we could use it later or share it?
 
 # Open RStudio, create script, and type the following into the console, (while 
 # teaching as you go).
