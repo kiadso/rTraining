@@ -15,7 +15,7 @@
 # - Can have multiple projects open simultaneously
 
 # LET'S CREATE ONE
-# - File > New Project > New Directory
+# - File > New Project > New Directory > New Project
 # - Name it "practice"
 # - Make the Directory say "~\R" and don't check anything
 # - Click Create
@@ -36,7 +36,11 @@
 # R has some built-in dataframes, some famous ones are mtcars and iris.
 # We're going to use mtcars.
 
+# Students: create a comment of your choice
+
 # see this is how you add commenting
+
+# Students: type the ones that are creating new vectors into your script
 
 mtcars # or you can do it like this
 
@@ -44,12 +48,12 @@ mtcars # or you can do it like this
 
 class(mtcars)
 
-how_wide_mtcars <- ncol(mtcars)
+ncol(mtcars)
 
 how_long_mtcars <- nrow(mtcars)
-length(mtcars)
+length(Oranges)
 
-attributes_mtcars <- names(mtcars)
+colnames_Oranges <- names(mtcars)
 
 # section with much cooler things in it -----------------------------------
 
@@ -59,7 +63,7 @@ plot(mtcars$mpg, mtcars$carb)
 
 hist(mtcars$mpg)
 
-write.csv(attributes_mtcars, file = "Week2Script.csv")
+write.csv(colnames_mtcars, file = "Week2Script.csv")
 
 # save script
 
@@ -68,19 +72,32 @@ write.csv(attributes_mtcars, file = "Week2Script.csv")
 # Sessions, workspaces ----------------------------------------------------
 
 ls()
-# - Restart R
 # - Clear Environment
+rm(list = ls())
+# - Restart R
 
 # Installing Packages -----------------------------------------------------
 
-install.packages("dplyr")
+# A package adds functionality to base R
+
+# Examples:
+
+# dplyr is great for manipulating data
+# lubridate makes it easy to work with dates
+# ggplot2 helps you create good plots
+# plotly helps you create interactive plots
+
+install.packages("dplyr") # Help > Cheatsheets > Data Transformation with dplyr
+
+# installing it puts it on your computer, only needed once per computer
+# needs to be updated every so often (I do weekly checks: 
+# Tools > Check for Package Updates...)
 
 library(dplyr)
 
-# how and when to update packages: Tools > Check for Package Updates...
+# must call the package to be able to use it in your R code
 
-# I update packages weekly. It has set me back some troubleshooting only twice 
-# in 2 yrs. Also good to keep R and RStudio updated.
+# every script should be able to be run in a fresh R session
 
 # Settings to Change Now --------------------------------------------------
 
@@ -99,6 +116,7 @@ library(dplyr)
 
 # vertical cursor demo
 
+vector <- c(
 sex	age
 female	29
 male	0.92
@@ -115,13 +133,17 @@ female	18
 female	24
 female	26
 male	80
-male	
+male
 male	24
 female	50
 female	32
 male	36
 male	37
 female	47
-male	26
+male	26)
 
 # Navigating a script
+
+
+
+
