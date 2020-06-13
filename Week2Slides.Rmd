@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
-# Week 2
+# Week 2: RStudio
 
 Presenter: Genelle Denzin (she/her)
 (HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
@@ -41,44 +41,17 @@ Feedback on the homework? Was everyone able to get through the Data Basics tutor
 
 ![](images/room.jpg)
 
-## Settings to Change Now
+## RStudio
 
-Tools > Global Settings > General > Workspace > uncheck "Restore .RData into workspace at startup" and set "Save Workspace" to "Never"
+We love code because:
 
-Why: You should save code that works every time. Write every script assuming it will be run in a fresh R process. 
+1. It's repeatable/reusable 
+2. Inspectable (ability to review the work)
+3. Diffable (can compare changes over time)
 
-A great resource about workflows is https://rstats.wtf (What They Forgot... to teach you)
+RStudio gives you the space to organize your code, connect to data sources, iterate, share, and back up your code. Makes coding easier.
 
-## History
-
-The commands you submitted last week **are** actually available to you if you do want those.
-
-## Project-based workflows
-
-- Highly recommended as a way to keep your work more reproducible
-- Useful as a way of always having a relevant working directory
-- Can have multiple projects open simultaneously
-- Keep like work together
-- Use the here package
-
-## Scripts
-
-How to create
-Commenting 
-How to write things 
-How to run things 
-Source script
-Saving the script (where?)
-
-## Sessions, workspaces
-
-- ls()
-- Restart R
-- Clear Environment
-
-## Installing Packages
-
-- run install.packages("dplyr")
+# Demo
 
 ## Homework 
 
