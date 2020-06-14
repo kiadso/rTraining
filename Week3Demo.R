@@ -19,11 +19,17 @@
 # Push
 # Go look at GitHub
 # add to .gitignore (and explain why)
+# talk about the readme.md
 
 
 # (talk about incorporating other computers/co-workers into
 # your repo)
 # Share Happy With Git as a resource
+
+# Navigate to the repo for this training project
+# Clone/copy link for it
+# Create new project using this link
+# NOW EVERYONE HAS ALL THE MATERIALS!!!
 
 # Projects
 # Organizations
