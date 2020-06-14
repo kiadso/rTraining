@@ -56,7 +56,7 @@ RStudio gives you the space to organize your code, connect to data sources, iter
 ## Homework 
 
 - [Install git](https://git-scm.com/download/win) on the same computer that you have R & RStudio on.
-- Sign up for a free [GitHub](https://github.com/) account. (There are other git platforms like GitLab and others- it is ok to choose whichever you want but I am using GitHub because I know more about it.)
+- If you don't already have an account with either GitHub, GitLab, or Bitbucket, go sign up for a free [GitHub](https://github.com/) account. (It is ok to choose whichever site you want but I will be demoing GitHub because I know more about it.)
 - Work with your vendor to try to get access to a HUD CSV Export from your HMIS. If you're not already familiar, please read about this export and download the [specifications](https://hudhdx.info/VendorResources.aspx). (You'll want this in Week 4.) 
 
 ## IF YOU ARE SO INCLINED
