@@ -1,7 +1,7 @@
 ---
-title: "Week 1 Resources"
+title: "Week 3 Resources"
 author: "Genelle Denzin"
-date: "6/9/2020"
+date: "6/23/2020"
 output: word_document
 ---
 
@@ -9,27 +9,29 @@ output: word_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Basics of R
+## Version Control
 
-### Ways to Learn R
+### Learn more about how to use Git
 
-[R for Data Science](r4ds.had.co.nz/) - book written by Hadley Wickham and Garret Grolemund about getting started in R and how the Tidyverse packages can help you
+[Happy with Git](https://happygitwithr.com/) - resource written specifically for RStudio users who are using GitHub
 
-[Coursera](https://www.coursera.org/courses?query=r) - paid courses
+[GitHub tutorials](https://guides.github.com/) - if you want to use GitHub 
 
-[Tutorial pane in RStudio](https://blog.rstudio.com/2020/02/25/rstudio-1-3-integrated-tutorials/) - After you install the LearnR package, you can access R tutorials directly from RStudio.
+[Good BitBucket tutorials](https://www.atlassian.com/git/tutorials) - from Atlassian, if you want to use Bitbucket instead of GitHub
+
+[GitLab tutorials](https://docs.gitlab.com/ee/gitlab-basics/) - if you want to use the free and open source GitLab
 
 ### R communities
 
 [R-Ladies](https://rladies.org/) - organization within the R community that aims to empower women to lead in the tech community. Holds meetups all around the world open to all and if there’s not one near you, you can attend virtual one, though all of them are virtual right now anyway, so.
 
-[HMIS Help Slack](https://join.slack.com/t/hmishelp/shared_invite/enQtNTEyMDA4MzA0MTYzLTlmNTUxMDYyYzFhNjI0M2E5NGZhODRjNWJlZjljM2MwMGI4NjQ0YzUyZTk2NGJjNDUxOWZlNWI2MDQ4MDUxNmM) - Slack channel created for HMIS Admins from around the US to connect. (Join the #r-learners channel!)
+[HMIS Help Slack](https://join.slack.com/t/hmishelp/shared_invite/enQtNTEyMDA4MzA0MTYzLTlmNTUxMDYyYzFhNjI0M2E5NGZhODRjNWJlZjljM2MwMGI4NjQ0YzUyZTk2NGJjNDUxOWZlNWI2MDQ4MDUxNmM) - Slack channel created for HMIS Admins from around the US to connect. (Join the #git-users channel!)
 
 [Twitter (#rstats)](https://twitter.com/hashtag/rstats?src=hashtag_click) - 
 R users from around the world sharing information, new packages, questions, etc.
 
 ### Course Materials
 
-[GitHub](https://github.com/kiadso/rTraining) - To find the code we used in the Demo portion of the Week 1 training, use the Week1Demo.R script.
+[R for HMIS Admins](https://github.com/kiadso/rTraining) 
 
 
