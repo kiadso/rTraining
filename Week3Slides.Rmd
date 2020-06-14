@@ -1,0 +1,70 @@
+---
+title: "R for HMIS Admins"
+author: "Genelle Denzin"
+date: "6/16/2020"
+output: 
+  ioslides_presentation:
+    logo: COHHIOlogo_5.16.jpg
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Week 3: Version Control (Git)
+
+Presenter: Genelle Denzin (she/her)
+(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
+
+## Homework
+
+Feedback on the homework? Any trouble installing git? Questions about the HUD CSV Export?
+
+## Logistics
+
+- Access to two monitors will be ideal.
+
+- Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you. 
+
+- Check the readme at the GitHub link for resources, links to recordings, homework instructions, etc. Contact me directly if you have any questions.
+
+### https://github.com/kiadso/rTraining
+
+## What is Version Control?
+
+We love code because:
+
+1. It's repeatable/reusable 
+2. Inspectable (ability to review the work)
+**3. Diffable (can compare changes over time)**
+
+As we iterate our code, a Version Control System (VCS) makes it easy to create snapshots of our work and make a note for each one we create to explain the reasoning.
+
+It makes it possible for multiple developers to work on code at the same time and merge changes, resolve conflicts where two developers
+
+## Why do we need it as HMIS Admins?
+
+Version control is something we likely already do in our everyday work, when we build copies of reports in an attempt to preserve good-enough work while we make improvements.
+
+
+
+# Demo
+
+## Homework 
+
+- [Install git](https://git-scm.com/download/win) on the same computer that you have R & RStudio on.
+- Sign up for a free [GitHub](https://github.com/) account. (There are other git platforms like GitLab and others- it is ok to choose whichever you want but I am using GitHub and will know more about it.)
+- Work with your vendor to try to get access to a HUD CSV Export from your HMIS. (You'll want this in Week 4.) 
+
+## IF YOU ARE SO INCLINED
+
+- Donations to COHHIO's Pandemic Fund  which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
+
+# GitHub
+
+Next Session:
