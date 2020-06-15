@@ -31,7 +31,7 @@
 # Create new project using this link
 # NOW EVERYONE HAS ALL THE MATERIALS!!!
 
-# Touring GitHub:
+# Touring GitHub repository:
 # Projects
 # Organizations
 # Issues
