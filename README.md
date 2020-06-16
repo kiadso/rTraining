@@ -41,7 +41,7 @@ Instructions:
 
 ### Recording for Week 2:
 
-(soon!)
+[Week 2 Recording](https://attendee.gotowebinar.com/recording/7189142892199735820)
 
 ### Where to learn more about workflow in RStudio
 
