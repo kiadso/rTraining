@@ -37,7 +37,27 @@ Instructions:
 - When you click the Tutorial tab, it will say you need to install the learnR package. Follow onscreen instructions so that the package is installed. (If you have trouble, please contact me or add an "Issue" to this repository.)
 - When you go back to the Tutorial tab, there will be a number of tutorials there with Start buttons. Choose the Data Basics tutorial. (In the session I said pick any of them you want, but really Data Basics makes the most sense right now.)
 
-### If you are so inclined:
+## Week 2: RStudio
+
+### Recording for Week 2:
+
+(soon!)
+
+### Where to learn more about workflow in RStudio
+
+[R for Data Science](r4ds.had.co.nz/) - specifically Chapter 4
+
+[What They Forgot to Teach You](https://rstats.wtf) - great workflow-related information about best practices
+
+[RStudio features](https://rstudio.com/products/rstudio/features/)
+
+### Homework for Week 3:
+
+- [Install git](https://git-scm.com/download/win) on the same computer that you have R & RStudio on.
+- If you don't already have an account with either GitHub, GitLab, or Bitbucket, go sign up for a free [GitHub](https://github.com/) account. (It is ok to choose whichever site you want but I will be demoing GitHub because I know more about it.)
+- Work with your vendor to try to get access to a HUD CSV Export from your HMIS. If you're not already familiar, please read about this export and download the [specifications](https://hudhdx.info/VendorResources.aspx). (You'll want this in Week 4.) 
+
+## If you are so inclined:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
 
