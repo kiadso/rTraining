@@ -17,17 +17,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [What They Forgot to Teach You](https://rstats.wtf) - great workflow-related information about best practices
 
-### R communities
-
-[R-Ladies](https://rladies.org/) - organization within the R community that aims to empower women to lead in the tech community. Holds meetups all around the world open to all and if there’s not one near you, you can attend virtual one, though all of them are virtual right now anyway, so.
-
-[HMIS Help Slack](https://join.slack.com/t/hmishelp/shared_invite/enQtNTEyMDA4MzA0MTYzLTlmNTUxMDYyYzFhNjI0M2E5NGZhODRjNWJlZjljM2MwMGI4NjQ0YzUyZTk2NGJjNDUxOWZlNWI2MDQ4MDUxNmM) - Slack channel created for HMIS Admins from around the US to connect. (Join the #r-learners channel!)
-
-[Twitter (#rstats)](https://twitter.com/hashtag/rstats?src=hashtag_click) - 
-R users from around the world sharing information, new packages, questions, etc.
-
-### Course Materials
-
-[GitHub](https://github.com/kiadso/rTraining) - To find the code we used in the Demo portion of the Week 1 training, use the Week1Demo.R script.
-
+[RStudio features](https://rstudio.com/products/rstudio/features/)
 
