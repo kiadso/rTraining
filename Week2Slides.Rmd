@@ -33,7 +33,7 @@ Feedback on the homework? Was everyone able to get through the Data Basics tutor
 
 - Going forward I will be keeping the readme at the GitHub link updated with resources, links to recordings, homework instructions, etc. Please check there for information and contact me directly if you have any questions.
 
-### https://github.com/kiadso/rTraining
+### https://github.com/kiadso/rTraining#r-for-hmis-admins
 
 ## What is RStudio
 - IDE (Integrated Development Environment)
