@@ -12,7 +12,7 @@ Hi, welcome! My name is Genelle Denzin and I work for the Coalition on Homelessn
 
 ### Ways to Learn R
 
-[R for Data Science](r4ds.had.co.nz/) - book written by Hadley Wickham and Garret Grolemund about getting started in R and how the Tidyverse packages can help you
+[R for Data Science](https://r4ds.had.co.nz/) - book written by Hadley Wickham and Garret Grolemund about getting started in R and how the Tidyverse packages can help you
 
 [Coursera](https://www.coursera.org/courses?query=r) - paid courses
 
@@ -45,7 +45,7 @@ Instructions:
 
 ### Where to learn more about workflow in RStudio
 
-[R for Data Science](r4ds.had.co.nz/) - specifically Chapter 4
+[R for Data Science](https://r4ds.had.co.nz/) - specifically Chapter 4
 
 [What They Forgot to Teach You](https://rstats.wtf) - great workflow-related information about best practices
 
