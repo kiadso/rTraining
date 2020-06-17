@@ -21,7 +21,7 @@ Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
 
 ## Homework
 
-Feedback on the homework? Any trouble installing git? Questions about the HUD CSV Export?
+Feedback on the homework? Any trouble installing git? Everyone has their GitHub (or other platform) login credentials handy? Questions about the HUD CSV Export?
 
 ## Logistics
 
@@ -43,11 +43,11 @@ We love code because:
 
 As we iterate our code, a Version Control System (VCS) makes it easy to create snapshots of our work and make a note for each one we create to explain the reasoning.
 
-It makes it possible for multiple developers to work on code at the same time and merge changes, resolve conflicts where two developers have modified the same line of code.
+Allows multiple developers to work on code at the same time, merge changes, and resolve conflicts where two developers have modified the same line of code.
 
 ## Why do we need it as HMIS Admins?
 
-1. Many of us are already doing it manually.
+1. Many of us are already documenting change logs and code summaries/samples manually.
 2. HUD Data Standards change, making it necessary to use reports that work with the old standards until the new data elements are available. Tracking logic changes to be implemented at a later time becomes much easier and trackable.
 3. Working with other data analysts on the same code.
 4. Working alone but on more than one computer.
