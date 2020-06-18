@@ -1,0 +1,91 @@
+---
+title: "R for HMIS Admins"
+author: "Genelle Denzin"
+date: "6/23/2020"
+output: 
+  ioslides_presentation:
+    logo: COHHIOlogo_5.16.jpg
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Week 3: Version Control (Git)
+
+Presenter: Genelle Denzin (she/her)
+(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
+
+## Homework
+
+Feedback on the homework? Any trouble installing git? Everyone has their GitHub (or other platform) login credentials handy? Questions about the HUD CSV Export?
+
+## Logistics
+
+- Access to two monitors will be ideal.
+
+- Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you. 
+
+- Check the readme at the GitHub link for resources, links to recordings, homework instructions, etc. Contact me directly if you have any questions.
+
+### https://github.com/kiadso/rTraining
+
+## What is Version Control?
+
+We love code because:
+
+1. It's repeatable/reusable 
+2. Inspectable (ability to review the work)
+3. **Diffable (can compare changes over time)**
+
+As we iterate our code, a Version Control System (VCS) makes it easy to create snapshots of our work and make a note for each one we create to explain the reasoning.
+
+Allows multiple developers to work on code at the same time, merge changes, and resolve conflicts where two developers have modified the same line of code.
+
+## Why do we need it as HMIS Admins?
+
+1. Many of us are already documenting change logs and code summaries/samples manually.
+2. HUD Data Standards change, making it necessary to use reports that work with the old standards until the new data elements are available. Tracking logic changes to be implemented at a later time becomes much easier and trackable.
+3. Working with other data analysts on the same code.
+4. Working alone but on more than one computer.
+
+## What is Git?
+
+Git is a free and open source VCS. Since it is installed on your computer, you can type git commands into your Terminal (or Command Prompt) and your computer will understand them.
+
+I'm not an expert in Git and I use it ALL THE TIME.
+
+## What is GitHub?
+
+GitHub is one way to use Git. You can also use GitLab, Bitbucket, or any number of other ones. For better or for worse, GitHub is the most popular way to use Git. I teach what I know, so we're using GitHub in this training.
+
+## Some words to know
+
+- Repository
+- Branch
+- Merge
+- Remote/Local
+- Stage
+- Commit
+- Push/Pull
+
+# Demo
+
+## Homework 
+
+- Install all the packages in the [Tidyverse](https://www.tidyverse.org/packages/) by running install.packages("tidyverse").
+- In the Tutorial tab, do the "Filter observations" tutorial.
+- Download a HUD CSV Export and put it into a folder in your practice project named "data". Unzip it to that same directory.
+
+## IF YOU ARE SO INCLINED
+
+- Donations to COHHIO's Pandemic Fund  which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
+
+# Tidyverse
+
+Next Session:

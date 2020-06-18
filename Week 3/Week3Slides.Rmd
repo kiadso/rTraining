@@ -1,7 +1,7 @@
 ---
 title: "R for HMIS Admins"
 author: "Genelle Denzin"
-date: "6/16/2020"
+date: "6/23/2020"
 output: 
   ioslides_presentation:
     logo: COHHIOlogo_5.16.jpg
@@ -64,13 +64,13 @@ GitHub is one way to use Git. You can also use GitLab, Bitbucket, or any number 
 
 ## Some words to know
 
-Repository
-Branch
-Remote/Local
-Commit
-Push/Pull
-Merge
-Revert
+- Repository
+- Branch
+- Merge
+- Remote/Local
+- Stage
+- Commit
+- Push/Pull
 
 # Demo
 
