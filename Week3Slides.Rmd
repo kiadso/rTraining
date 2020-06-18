@@ -74,6 +74,8 @@ GitHub is one way to use Git. You can also use GitLab, Bitbucket, or any number 
 
 # Demo
 
+https://happygitwithr.com/rstudio-see-git.html#rstudio-see-git
+
 ## Homework 
 
 - Install all the packages in the [Tidyverse](https://www.tidyverse.org/packages/) by running install.packages("tidyverse").

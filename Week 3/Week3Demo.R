@@ -1,16 +1,14 @@
-# In terminal, tell RStudio your git credentials
-# $ git config --global user.name "Your Name Comes Here"
-# $ git config --global user.email you@yourdomain.example.com
-
 
 # Log into GitHub
 # Create new repository
+# yes to readme
 # (talk about licensing)
 # Clone (copy link)
 # Go to RStudio
 # Create a project (version control this time)
 # Paste link
 # Create
+
 ## Does everyone have a Git tab????
 # Create a script, save an initial comment or something to it
 # Diff
