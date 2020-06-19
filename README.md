@@ -61,6 +61,6 @@ Instructions:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
 
-- You can donate to [COHHIO's Pandemic Fund](https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund) which helps organizations in Ohio keep our homeless neighbors safe from COVID-19.
+- You can donate to [COHHIO](https://actionnetwork.org/fundraising/support-the-coalition-on-homelessness-and-housing-in-ohio) who supports me doing this training.
 
 - Or you can donate to [The Columbus Freedom Fund](https://www.paypal.me/columbusfreedomfund) which bails out local Black Lives Matter protesters.
