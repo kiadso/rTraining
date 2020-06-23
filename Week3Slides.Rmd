@@ -17,6 +17,7 @@ library(knitr)
 
 Presenter: Genelle Denzin (she/her)
 (HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+
 Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
 
 ## Homework
@@ -80,7 +81,7 @@ https://happygitwithr.com/rstudio-see-git.html#rstudio-see-git
 
 - Install all the packages in the [Tidyverse](https://www.tidyverse.org/packages/) by running install.packages("tidyverse").
 - In the Tutorial tab, do the "Filter observations" tutorial.
-- Download a HUD CSV Export and put it into a folder in your practice project named "data". Unzip it to that same directory.
+- Create a new directory in your practice project called "data". Download a HUD CSV Export from your HMIS and save it to this new directory. Unzip it to that same directory.
 
 ## IF YOU ARE SO INCLINED
 
