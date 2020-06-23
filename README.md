@@ -61,7 +61,7 @@ Instructions:
 
 ### Recording for Week 3:
 
-[coming soon]()
+[Week 3 Recording](https://attendee.gotowebinar.com/recording/7983181602632079106)
 
 ### Best Resources:
 
