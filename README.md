@@ -57,6 +57,28 @@ Instructions:
 - If you don't already have an account with either GitHub, GitLab, or Bitbucket, go sign up for a free [GitHub](https://github.com/) account. (It is ok to choose whichever site you want but I will be demoing GitHub because I know more about it.)
 - Work with your vendor to try to get access to a HUD CSV Export from your HMIS. If you're not already familiar, please read about this export and download the [specifications](https://hudhdx.info/VendorResources.aspx). (You'll want this in Week 4.) 
 
+## Week 3: Version Control using Git
+
+### Recording for Week 3:
+
+[coming soon]()
+
+### Best Resources:
+
+[Happy Git with R](https://happygitwithr.com/rstudio-see-git.html#rstudio-see-git)
+
+[GitHub tutorials](https://guides.github.com/) - if you want to use GitHub 
+
+[BitBucket tutorials](https://www.atlassian.com/git/tutorials) - from Atlassian, if you want to use Bitbucket instead of GitHub
+
+[GitLab tutorials](https://docs.gitlab.com/ee/gitlab-basics/) - if you want to use the free and open source GitLab
+
+### Homework for Week 4
+
+- Install all the packages in the [Tidyverse](https://www.tidyverse.org/packages/) by running install.packages("tidyverse").
+- In the Tutorial tab, do the "Filter observations" tutorial.
+- Create a new directory in your practice project called "data". Download a HUD CSV Export from your HMIS and save it to this new directory. Unzip it to that same directory.
+
 ## If you are so inclined:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
