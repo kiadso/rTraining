@@ -40,10 +40,29 @@ A set of R packages created and maintained by RStudio which adheres to the conce
 
 Intended to make coding in R more accessible to "non-coders".
 
-Because the packages are packaged together, it makes it much easier to know the packages you are using will work well together. (Not always a given!)
+Because the packages are bundled and maintained together, it makes it much easier to know the packages you are using will work well together. (Not always a given!)
 
 ## What Packages are in the Tidyverse?
 
+Most commonly used within the [Tidyverse](https://www.tidyverse.org/packages/): 
+
+- lubridate
+- dplyr
+- ggplot2
+- readr
+- stringr
+
+I generally call:
+
+```{r pkgs, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+## Demo Preview
+
+* Using your own HUD CSV Export, we will use R Markdown to create a one-off report
+* Objective: create a dataframe that lists each Organization Name along with how many HMIS-participating providers are associated with that Organization.
 
 # Demo
 
@@ -53,10 +72,10 @@ Because the packages are packaged together, it makes it much easier to know the 
 
 ## IF YOU ARE SO INCLINED
 
-- Donations to COHHIO's Pandemic Fund  which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+- Donations to COHHIO's Pandemic Fund which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
 
 - Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
 
 # Turning You Loose!
 
-Next Session:
+Last Session Topic:
