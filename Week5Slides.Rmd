@@ -1,0 +1,74 @@
+---
+title: "R for HMIS Admins"
+author: "Genelle Denzin"
+date: "7/7/2020"
+output: 
+  ioslides_presentation:
+    logo: COHHIOlogo_5.16.jpg
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Week 5: Turning you Loose
+
+Presenter: Genelle Denzin (she/her)
+(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+
+Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
+
+## Logistics
+
+- No demo today!
+
+- Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you. 
+
+- I'm going to leave the readme at the GitHub link up as a resource, links to recordings, homework instructions, etc. ~~Contact me directly if you have any questions.~~
+
+- We're going to talk about where you can find help going forward!
+
+## The R Community landscape
+
+A little tension between base R crowd and RStudio crowd but mostly everyone agrees to live and let live. Use what makes you and your co-developers happy.
+
+R is free and open source. It's maintained by developers who know and care about the language and its future and who are generally not paid for their work. There's a dynamic where often this arrangement becomes unsustainable. 
+
+RStudio is a B Corp, and maintains the Tidyverse and shinyapps.io and a number of server products. They also contribute a lot to the maintenance of R as a language.
+
+## How do I get help if I have an issue?
+
+Continuum of effort, ascending order:
+
+1. In the console, type `?mutate`, read the R documentation.
+2. In the console, type `vignette("dplyr")` (or another package)
+3. Google
+    * Searching on "R" is obviously difficult but it does work if the rest of your search is more specific. There's also rseek.org. 
+    * Paste error message
+    * Search package name and problem
+    * You'll often end up on StackOverflow. Usually your answer is there!
+4. RStudio Community
+5. Slack (your local R-Ladies or the HMIS Help Slack #r-learners channel)
+
+## What if I Need to Ask for Help
+
+* Follow guidelines of whatever site you are posting to. Stackoverflow has a template and a series of questions to ask yourself before posting. Most sites do these days.
+* Include information about what you've tried, be clear about what exactly you are expecting the code to do, include the exact error message, etc.
+* It helps to create a reproducible example of your problem for whoever is going to try to help you wherever possible. Get to know the reprex package!
+
+## What is Cool???? (Demos, the kind you watch!)
+
+- Jesse Dirkman
+- me!
+- 
+
+## IF YOU ARE SO INCLINED
+
+- Donations to COHHIO's Pandemic Fund which helps organizations in Ohio keep our homeless neighbors safe from COVID-19. https://actionnetwork.org/fundraising/cohhio-pandemic-emergency-fund
+
+- Donations to the Columbus Freedom Fund which bails out local Black Lives Matter protesters can be made here: https://www.paypal.me/columbusfreedomfund
+
+# Off ya go!
+
