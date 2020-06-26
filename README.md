@@ -79,6 +79,24 @@ Instructions:
 - In the Tutorial tab, do the "Filter observations" tutorial.
 - Create a new directory in your practice project called "data". Download a HUD CSV Export from your HMIS and save it to this new directory. Unzip it to that same directory.
 
+## Week 4: Tidyverse and Working with your own HMIS data!
+
+### Recording for Week 4:
+
+[coming soon]()
+
+### Best Resources:
+
+[Tidyverse Style Guide](https://style.tidyverse.org/)
+
+[Good explanation of Piping](https://r4ds.had.co.nz/pipes.html)
+
+[Good visualization of the Joins](https://github.com/gadenbuie/tidyexplain#tidy-animated-verbs)
+
+### Homework for Week 5:
+
+Nothing specific! Work with your own HMIS data and we will leave some time in the Week 5 session for folks to show attendees some work they've done with HMIS data in R.
+
 ## If you are so inclined:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
