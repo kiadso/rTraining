@@ -1,0 +1,36 @@
+---
+title: "Organization HMIS Participation"
+author: "Genelle Denzin"
+date: "6/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+library(tidyverse)
+library(lubridate)
+library(here)
+library(gt)
+
+raw_project <- read_csv(here("data/Project.csv"))
+raw_organization <- read_csv(here("data/Organization.csv"))
+  
+```
+
+```{r}
+hmis_participating <- raw_project %>%
+  filter(HMISParticipatingProject == 1)
+
+org_size <- hmis_participating %>%
+  left_join(raw_organization, by = "OrganizationID") %>%
+  select(ProjectID, ProjectName, OrganizationID, OrganizationName) %>%
+  group_by(OrganizationName) %>%
+  summarise(Projects = n()) %>%
+  arrange(desc(Projects))
+
+gt(org_size)
+```
+
+
+
+
