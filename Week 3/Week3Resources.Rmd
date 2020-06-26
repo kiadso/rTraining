@@ -21,6 +21,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [GitLab tutorials](https://docs.gitlab.com/ee/gitlab-basics/) - if you want to use the free and open source GitLab
 
+[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - If you want to write good commit messages
+
 ### R communities
 
 [R-Ladies](https://rladies.org/) - organization within the R community that aims to empower women to lead in the tech community. Holds meetups all around the world open to all and if there’s not one near you, you can attend virtual one, though all of them are virtual right now anyway, so.
