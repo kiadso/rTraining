@@ -26,7 +26,7 @@ Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
 
 - Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you. 
 
-- I'm going to leave the readme at the GitHub link up as a resource, links to recordings, homework instructions, etc. ~~Contact me directly if you have any questions.~~
+- I'm going to leave the readme at the GitHub link up as a resource, links to recordings, homework instructions, etc. 
 
 - We're going to talk about where you can find help going forward!
 
@@ -44,8 +44,7 @@ Continuum of effort, ascending order:
 
 1. In the console, type `?mutate`, read the R documentation.
 2. In the console, type `vignette("dplyr")` (or another package)
-3. Google
-    * Searching on "R" is obviously difficult but it does work if the rest of your search is more specific. There's also rseek.org. 
+3. Google 
     * Paste error message
     * Search package name and problem
     * You'll often end up on StackOverflow. Usually your answer is there!
@@ -58,10 +57,62 @@ Continuum of effort, ascending order:
 * Include information about what you've tried, be clear about what exactly you are expecting the code to do, include the exact error message, etc.
 * It helps to create a reproducible example of your problem for whoever is going to try to help you wherever possible. Get to know the reprex package!
 
-## What is Cool???? (Demos, the kind you watch!)
+## Toward better Reproducibility in HMIS
 
-- Jesse Dirkman
-- me!
+### For best reproducibility:
+
+* As raw as possible coming out of HMIS (data structure already documented!)
+
+* Data shaping in R (documented with Git)
+
+* Data visualization in R (also documented with Git)
+
+## Toward better Reproducibility in HMIS
+
+### For decent level of reproducibility:
+
+* As raw as possible coming out of HMIS (data structure already documented)
+
+* Data shaping in R (documented with Git)
+
+* Data visualization in a data visualization software such as Tableau or PowerBI (documentation not available or not shared)
+
+## Toward better Reproducibility in HMIS
+
+### Lowest level of reproducibility:
+
+* Data comes from a custom report in your HMIS for which you have no documentation, or the documentation is often out of date
+
+* This data gets massaged in some way in Excel (and these steps are not documented)
+
+* Data goes into a data visualization software such as Tableau or PowerBI and the documentation for what is happening in that process is also not documented
+
+## How do you use R for Data Visualization?
+
+For building it:
+
+* ggplot2
+* Leaflet package (interactive maps)
+* DataTable (DT package) (interactive and VERY controllable tables)
+* Shiny
+* shinydashboard (improves upon Shiny)
+* Plotly (interactive plots)
+* there are more.......
+
+## How do you use R for Data Visualization?
+
+For making it available:
+
+* Shiny (shinyapps.io)
+* R Markdown outputs (html, Word, slides, pdf)
+* Bookdown (can write and publish a book to bookdown.org)
+* Blogdown (can create and maintain a website/blog to any web server)
+* RPubs (easy web publishing from R)
+
+## What is Cool????
+
+- Jesse Dirkman (Institute for Community Alliances)
+- Genelle Denzin (COHHIO)
 - 
 
 ## IF YOU ARE SO INCLINED
