@@ -87,6 +87,8 @@ Instructions:
 
 ### Best Resources:
 
+[Tidy data](https://r4ds.had.co.nz/tidy-data.html)
+
 [Tidyverse Style Guide](https://style.tidyverse.org/)
 
 [Good explanation of Piping](https://r4ds.had.co.nz/pipes.html)
