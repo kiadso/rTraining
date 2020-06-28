@@ -38,9 +38,33 @@ Feedback on the homework? Any trouble installing the Tidyverse? Questions about 
 
 A set of R packages created and maintained by RStudio which adheres to the concept of "tidy" data.
 
+Because the packages are bundled and maintained together, it makes it much easier to know the packages you are using will work well together. (Not always a given!)
+
 Intended to make coding in R more accessible to "non-coders".
 
-Because the packages are bundled and maintained together, it makes it much easier to know the packages you are using will work well together. (Not always a given!)
+## What is tidy data?
+
+[Tidy data](https://garrettgman.github.io/tidying/) is data that satisfies these rules:
+
+* Each variable must have its own column
+* Each observation must have its own row
+* Each value must have its own cell 
+
+<center>
+
+![Tidy data](images/tidy-1.png)
+
+</center>
+
+## What isn't tidy data?
+
+An example (but there are many more)
+
+<center>
+
+![Non-tidy data](images/non-tidy.png)
+
+</center>
 
 ## What Packages are in the Tidyverse?
 
