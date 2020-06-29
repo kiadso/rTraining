@@ -28,8 +28,7 @@
 # hmis_participating <- project %>% filter(HMIS_Participating == 1)
 
 # piping: instead of reading from the inside out, you read in order of the
-# actions taken https://r4ds.had.co.nz/pipes.html also 
-# https://twitter.com/CedScherer/status/1234744072193105920?s=20
+# actions taken https://r4ds.had.co.nz/pipes.html 
 
 # you can now use this subset of the project dataframe anywhere later
 
