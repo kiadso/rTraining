@@ -109,6 +109,15 @@ For making it available:
 * Blogdown (can create and maintain a website/blog to any web server)
 * RPubs (easy web publishing from R)
 
+## How do you get a dataset OUT of your project directory?
+
+Symbolic links! (One-time setup)
+
+On Windows, you have to run your command prompt as an administrator
+I wrote a script to help me write the command, but it's basically:
+
+`mklink "where you want it to go" "where it is"`
+
 ## What is Cool????
 
 - Jesse Dirkman (Institute for Community Alliances)
