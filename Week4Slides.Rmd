@@ -15,10 +15,9 @@ library(knitr)
 
 # Week 4: Tidyverse
 
-Presenter: Genelle Denzin (she/her)
-(HMIS Data Analyst, a co-organizer of Columbus R-Ladies)
+Presenter: Genelle Denzin (she/her) HMIS Data Analyst, a co-organizer of Columbus R-Ladies
 
-Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
+Co-presenter: Carolyn Hoffman (she/her) Training & Technical Assistance, R Lady!
 
 ## Homework
 
