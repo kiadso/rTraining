@@ -83,7 +83,7 @@ Instructions:
 
 ### Recording for Week 4:
 
-[coming soon]()
+[Week 4 Recording](https://attendee.gotowebinar.com/recording/4622971813722050567)
 
 ### Best Resources:
 
@@ -93,7 +93,7 @@ Instructions:
 
 [Good explanation of Piping](https://r4ds.had.co.nz/pipes.html)
 
-[Good visualization of the Joins](https://github.com/gadenbuie/tidyexplain#tidy-animated-verbs)
+[Good visualization of joins](https://github.com/gadenbuie/tidyexplain#tidy-animated-verbs)
 
 ### Homework for Week 5:
 
