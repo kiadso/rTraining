@@ -99,6 +99,28 @@ Instructions:
 
 Nothing specific! Work with your own HMIS data and we will leave some time in the Week 5 session for folks to show attendees some work they've done with HMIS data in R.
 
+## Week 5: Data Visualization and Turning you Loose!
+
+### Recording for Week 5:
+
+[coming soon]()
+
+### Best Resources:
+
+* [RStudio Community](https://community.rstudio.com/)
+
+* [Leaflet](https://rstudio.github.io/leaflet/) package (interactive maps)
+
+* [DataTable](https://rstudio.github.io/leaflet/) (DT package) (interactive and VERY controllable tables)
+
+* Shiny: check out the [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+* [Plotly](https://plotly.com/r/) (interactive plots)
+
+* [R Graph Gallery](https://www.r-graph-gallery.com/)
+
+* [My talk at NHSDC about Reproducibility and R Markdown](https://github.com/COHHIO/rmarkdown_talk#national-human-services-data-consortium-presentation)
+
 ## If you are so inclined:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.
