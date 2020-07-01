@@ -120,6 +120,7 @@ I wrote a script to help me write the command, but it's basically:
 
 - Jesse Dirkman (Institute for Community Alliances)
 - Genelle Denzin (COHHIO)
+- Carolyn Hoffman (COHHIO)
 - 
 
 ## IF YOU ARE SO INCLINED
