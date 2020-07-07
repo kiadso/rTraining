@@ -43,13 +43,12 @@ RStudio is a B Corp, and maintains the Tidyverse and shinyapps.io and a number o
 Continuum of effort, ascending order:
 
 1. In the console, type `?mutate`, read the R documentation.
-2. In the console, type `vignette("dplyr")` (or another package)
-3. Google (you will often find your answer on StackOverflow!)
+2. Google (you will often find your answer on StackOverflow!)
     * Paste error message
     * Search package name and problem
-4. Slack (your local R-Ladies or the HMIS Help Slack #r-learners channel)
-5. Ask a question on [RStudio Community](https://community.rstudio.com/)
-6. Ask a question on StackOverflow (I've never had to do this)
+3. Slack (your local R-Ladies or the HMIS Help Slack #r-learners channel)
+4. Ask a question on [RStudio Community](https://community.rstudio.com/)
+5. Ask a question on StackOverflow (I've never had to do this)
 
 ## What if I Need to Ask for Help
 
