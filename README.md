@@ -103,7 +103,7 @@ Nothing specific! Work with your own HMIS data and we will leave some time in th
 
 ### Recording for Week 5:
 
-[coming soon]()
+[Week 5 Recording](https://attendee.gotowebinar.com/recording/3642046913203046668)
 
 ### Best Resources:
 
