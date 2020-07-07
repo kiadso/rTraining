@@ -121,6 +121,10 @@ Nothing specific! Work with your own HMIS data and we will leave some time in th
 
 * [My talk at NHSDC about Reproducibility and R Markdown](https://github.com/COHHIO/rmarkdown_talk#national-human-services-data-consortium-presentation)
 
+### Citation:
+
+* [The Reproducibility Spectrum graphic in the Week 5 slides:](https://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf) - Marwick, B, d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., Bollwerk, E. A., Bocinsky, R. K., Brughmans, T., Carter, A. K., Conrad, C., Contreras, D. A., Costa, S., Crema, E. R., Daggett, A., Davies, B., Drake, B. L., Dye, T. S., France, P., Fullagar, R., Giusti, D., Graham, S., Harris, M. D., Hawks, J., Health, S., Huffer, D., Kansa, E. C., Kansa, S. W., Madsen, M. E., Melcher, J., Negre, J., Neiman, F. D., Opitz, R., Orton, D. C., Przstupa, P., Raviele, M., Riel-Savatore, J., Riris, P., Romanowska, I., Smith, J., Strupler, N., Ullah, I. I., Van Vlack, H. G., VanValkenburgh, N., Watrall, E. C., Webster, C., Wells, J., Winters, J., and Wren, C. D. (2017) Open science in archaeology. SAA Archaeological Record, 17(4), pp. 8-14.
+
 ## If you are so inclined:
 
 This training series is totally free and there is not an expectation or requirement to donate, but if you want to do so, here is where I would love to see donations be made.

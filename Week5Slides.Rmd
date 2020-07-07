@@ -58,6 +58,10 @@ Continuum of effort, ascending order:
 
 * If applicable, always create a reproducible example of your problem for whoever is going to try to help you wherever possible. Get to know the reprex package!
 
+## What is Reproducibility?
+
+![We cannot get to 100% as HMIS Data Analysts but we can make progress.](images/reproducibility.png)
+
 ## Toward better Reproducibility in HMIS
 
 ### For best reproducibility:
