@@ -26,7 +26,7 @@ Co-presenter: Carolyn Hoffman (fellow R user, Training & Technical Assistance)
 
 - Please send questions/comments to the chat or raise your hand if you need to ask a question and I can unmute you. 
 
-- I'm going to leave the readme at the GitHub link up as a resource, links to recordings, homework instructions, etc. 
+- I'm going to leave the readme at the GitHub link up as a resource, links to recordings, homework instructions, etc. Feel free to Pull changes via GitHub!
 
 - We're going to talk about where you can find help going forward!
 
