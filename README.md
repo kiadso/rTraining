@@ -8,7 +8,7 @@ Hi, welcome! My name is Genelle Denzin and I work for the Coalition on Homelessn
 
 ### Recording for Week 1:
 
-[Week 1 Recording](https://transcripts.gotomeeting.com/#/s/0885c2ba654203fdcdf1ea00f1c6151cb7a8f6449bb477518d44c635edd4e3f5)
+[Week 1 Recording](https://youtu.be/OkfoI3X9Lgs)
 
 ### Ways to Learn R
 
@@ -41,7 +41,7 @@ Instructions:
 
 ### Recording for Week 2:
 
-[Week 2 Recording](https://attendee.gotowebinar.com/recording/7189142892199735820)
+[Week 2 Recording](https://youtu.be/A-cASAyT-Cg)
 
 ### Where to learn more about workflow in RStudio
 
@@ -61,7 +61,7 @@ Instructions:
 
 ### Recording for Week 3:
 
-[Week 3 Recording](https://attendee.gotowebinar.com/recording/7983181602632079106)
+[Week 3 Recording](https://youtu.be/UELBZ8JVC2I)
 
 ### Best Resources:
 
@@ -83,7 +83,7 @@ Instructions:
 
 ### Recording for Week 4:
 
-[Week 4 Recording](https://attendee.gotowebinar.com/recording/4622971813722050567)
+[Week 4 Recording](https://youtu.be/0PYsYS8ihdo)
 
 ### Best Resources:
 
@@ -103,7 +103,7 @@ Nothing specific! Work with your own HMIS data and we will leave some time in th
 
 ### Recording for Week 5:
 
-[Week 5 Recording](https://attendee.gotowebinar.com/recording/3642046913203046668)
+[Week 5 Recording](https://youtu.be/C1wP2iS_JFo)
 
 ### Best Resources:
 
