@@ -3,6 +3,10 @@
 
 Hi, welcome! My name is Genelle Denzin and I work for the Coalition on Homelessness and Housing in Ohio (COHHIO) as the HMIS Data Analyst. I've used R for about 2 years in my HMIS work. I'm creating these trainings for my HMIS Admin colleagues as a way of sharing knowledge about how R can help you in your HMIS Admin everyday life. We start with some R basics and then move mostly to workflow-related topics.
 
+## Pre-Course Homework
+
+Install [R](https://cloud.r-project.org/) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/).
+
 ## Week 1: R Basics
 
 
