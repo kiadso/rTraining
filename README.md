@@ -5,7 +5,7 @@ Hi, welcome! My name is Genelle Denzin and I work for the Coalition on Homelessn
 
 ## Pre-Course Homework
 
-Install [R](https://cloud.r-project.org/) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/).
+Install [R](https://cloud.r-project.org/) and then [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/).
 
 ## Week 1: R Basics
 
